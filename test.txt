@@ -1,2 +1,14 @@
 sai ram!
 sai ram!
+
+
+$ git config --global user.email sandeepgajbi@gmail.com
+
+$ git add test.txt
+
+git status
+
+
+$ git commit -m "jai sai ram" test.txt
+
+$ git push -u origin master
